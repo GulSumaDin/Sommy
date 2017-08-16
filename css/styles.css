@@ -1,10 +1,13 @@
-.header p{
+#services{
+	position: relative;
+	}
+#services .header-heading h2{
 	margin: 30px;
 	text-align: center;
 	font-family: verdana;
-	font-size: 22px;
+	font-size: 1.3rem;
 	background-color: #fff;
-}
+	}
 .Icon-box{
 	padding: 20px 20px;
 	text-align: center;
