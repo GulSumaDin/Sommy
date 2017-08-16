@@ -1,0 +1,28 @@
+.header p{
+	margin: 30px;
+	text-align: center;
+	font-family: verdana;
+	font-size: 22px;
+	background-color: #fff;
+}
+.Icon-box{
+	padding: 20px 20px;
+	text-align: center;
+	display: inline-block;
+	list-style-type: none;
+	width: 100%;
+}
+.Icon-box h2{
+	font-size: 20px;
+	}
+.Icon-box i{
+	color: blue;
+}
+.Icon-box .p{
+	text-align: center;
+}
+.Icon-box .ic-top{
+	width: 300px;
+	display: inline-block;
+}
+
